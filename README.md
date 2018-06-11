@@ -1,1 +1,3 @@
 # LearningScala
+
+Hello中包含了Scala的基础语法和用例
