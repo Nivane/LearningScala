@@ -1,6 +1,6 @@
 /**
   * author: zlp 2018.06.11
-  * Scala 基础
+  * Scala 基础 变量 条件 循环 闭包 方法函数
   */
 object Hello {
   /**
