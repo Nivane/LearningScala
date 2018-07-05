@@ -7,22 +7,22 @@ object BasicExtractor {
 
   def main(args: Array[String]): Unit = {
 
-    var extractor = BasicExtractor(5)
+    val extractor = BasicExtractor(5)
     println(extractor)
 
     extractor match {
       //这里的num是extractor执行了unapply之后的3吗
       case BasicExtractor(num) => println(extractor + " is twice of " + num)
-      case _ => println("cannt be computed.")
+      case _ => println("can not be computed.")
     }
 
 
-    var extractor1 = BasicExtractor(4)
+    val extractor1 = BasicExtractor(4)
     println(extractor1)
 
     extractor1 match {
       case BasicExtractor(num) => println(extractor1 + " is twice of " + num)
-      case _ => println("cannt be computed.")
+      case _ => println("can not be computed.")
     }
 
   }

@@ -12,7 +12,7 @@ object BasicIO {
       屏幕读取
      */
 
-    var line = Console.readLine()
+    val line = Console.readLine()
     println("Input: " + line)
 
     /*

@@ -16,12 +16,12 @@ object BasicScala {
     /*
     数组
      */
-    var arr1: Array[String] = new Array[String](3)
+    val arr1: Array[String] = new Array[String](3)
     arr1(0) = "nogizaka"
     arr1(1) = "keyakizaka"
     arr1(2) = "yoshimotozaka"
     var arr2 = new Array[String](3)
-    var arr3 = Array(
+    val arr3 = Array(
       "nogizaka",
       "keyakizaka",
       "yoshimotozaka"
@@ -42,8 +42,8 @@ object BasicScala {
       println(arr3(i))
     }
 
-    var arr4 = Range(1, 10, 2)
-    var arr5 = Range(1, 10)
+    val arr4 = Range(1, 10, 2)
+    val arr5 = Range(1, 10)
 
     for (x <- arr4) {
       print(x + "\t")

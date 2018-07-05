@@ -5,10 +5,12 @@ object BasicException {
   def main(args: Array[String]): Unit = {
 
     try {
-      var file = new FileReader("hello.txt")
+      val file = new FileReader("hello.txt")
+      file.close()
     } catch {
       case ex: FileNotFoundException => {
         println("FileNotFoundException")
+        println(ex.printStackTrace())
       }
 
     } finally {

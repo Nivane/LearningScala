@@ -2,6 +2,7 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/Hello.scala" line="67" />
+    <bookmark url="file://$PROJECT_DIR$/src/Functions.scala" line="39" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="836661eb-79f2-4cd0-8c76-a2f70a9e5a1e" name="Default" comment="" />
@@ -15,14 +16,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BasicIO.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasicIO.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BasicIO.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="132">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicMatch.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicMatch.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicRegex.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicRegex.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicScala.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BasicScala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicClass.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicClass.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicException.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicException.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicExtractor.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BasicExtractor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -46,15 +101,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/Hello.sc" />
         <option value="$PROJECT_DIR$/src/Square.sc" />
-        <option value="$PROJECT_DIR$/src/Hello.scala" />
-        <option value="$PROJECT_DIR$/src/BasicScala.scala" />
-        <option value="$PROJECT_DIR$/src/BasicClass.scala" />
         <option value="$PROJECT_DIR$/src/BasicMatch.scala" />
-        <option value="$PROJECT_DIR$/src/BasicRegex.scala" />
         <option value="$PROJECT_DIR$/src/BasicTrait.scala" />
+        <option value="$PROJECT_DIR$/src/Hello.scala" />
+        <option value="$PROJECT_DIR$/src/Functions.scala" />
         <option value="$PROJECT_DIR$/src/BasicException.scala" />
+        <option value="$PROJECT_DIR$/src/BasicClass.scala" />
         <option value="$PROJECT_DIR$/src/BasicExtractor.scala" />
         <option value="$PROJECT_DIR$/src/BasicIO.scala" />
+        <option value="$PROJECT_DIR$/src/BasicRegex.scala" />
+        <option value="$PROJECT_DIR$/src/BasicScala.scala" />
       </list>
     </option>
   </component>
@@ -67,7 +123,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -89,6 +144,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -99,7 +155,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -113,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasicIO">
+  <component name="RunManager" selected="Application.Functions">
     <configuration name="BasicException" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="BasicException" />
       <module name="Hello" />
@@ -129,13 +185,13 @@
       <module name="Hello" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BasicRegex" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BasicRegex" />
+    <configuration name="BasicScala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BasicScala" />
       <module name="Hello" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="BasicScala" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BasicScala" />
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Functions" />
       <module name="Hello" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -188,18 +244,18 @@
     <list>
       <item itemvalue="Application.Hello" />
       <item itemvalue="Application.BasicScala" />
-      <item itemvalue="Application.BasicRegex" />
       <item itemvalue="Application.BasicException" />
       <item itemvalue="Application.BasicExtractor" />
       <item itemvalue="Application.BasicIO" />
+      <item itemvalue="Application.Functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Functions" />
+        <item itemvalue="Application.BasicScala" />
         <item itemvalue="Application.BasicIO" />
         <item itemvalue="Application.BasicExtractor" />
         <item itemvalue="Application.BasicException" />
-        <item itemvalue="Application.BasicRegex" />
-        <item itemvalue="Application.BasicScala" />
       </list>
     </recent_temporary>
   </component>
@@ -228,12 +284,13 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3380589" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3380589" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299435" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16770834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16770834" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -245,13 +302,22 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BasicIO.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Hello.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1305">
@@ -282,83 +348,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hello.sc" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" />
-    <entry file="file://$PROJECT_DIR$/src/Square.sc">
+    <entry file="file://$PROJECT_DIR$/src/Functions.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hello.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="73" lean-forward="true" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hello.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicException.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicRegex.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicMatch.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="374">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicTrait.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Square.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="10" lean-forward="true" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hello.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="73" lean-forward="true" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicClass.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="58" column="36" lean-forward="true" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+        <state relative-caret-position="204">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicException.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicExtractor.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicIO.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="132">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicMatch.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicRegex.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicScala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
         </state>
       </provider>
     </entry>
