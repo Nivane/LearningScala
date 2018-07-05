@@ -38,26 +38,27 @@ object Hello {
     var a = 0
     var b = 0
     var c = 0
+    //包括10
     for (a <- 1 to 10) {
       print(a)
     }
     println()
-
+    //不包括10
     for (b <- 1 until 10) {
       print(b)
     }
     println()
 
     for (a <- 1 to 5; b <- 6 until 10) {
-      print(a)
+      print(a + " ")
       print(b)
-      print("\t")
+      print("\t\t")
     }
     println()
 
     val d = for (a <- 1 to 10) yield a
     for (a <- d) {
-      print(a)
+      print(a + "\t")
     }
     println()
 
